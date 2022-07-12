@@ -1,11 +1,25 @@
 # Collectr - Django API
 
-A Django RESTful API for users to collect and trade music.
+A demo Django REST API where curators maintain collections of items which all users can collect and trade.
 
-Features include user authentication, browsing and trading user music collections, etc...
+Current features:
+- authentication
+- user repoutation management
+- trading and collecting items
+- searching for trades
+- requesting curators to add new items
 
-The following documentation is available.
+Planned features:
+- 2FA
+- payment
+- chat
 
-Testing via Postman is available.
+Project planning + documentation:
+- specification of use cases
+- wireframes + ERD
+
+Testing:
+- backend Django unit testing
+- a prefilled Postman environment is available on request.
 
 🎵 🎵 🎵
