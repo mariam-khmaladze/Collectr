@@ -4,7 +4,7 @@ A demo Django REST API where curators maintain collections of items which all us
 
 Current features:
 - authentication
-- user repoutation management
+- user reputation management
 - trading and collecting items
 - searching for trades
 - requesting curators to add new items
