@@ -20,6 +20,5 @@ Project planning + documentation:
 
 Testing:
 - backend Django unit testing
-- a prefilled Postman environment is available on request.
 
 🎵 🎵 🎵
